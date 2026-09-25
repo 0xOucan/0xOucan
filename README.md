@@ -36,7 +36,7 @@ $ cat focus.txt
 
 In crypto since **2017**, DeFi since **2020**. I like taking an idea from *problem → research → prototype → hardware / software → tested product → open-source docs*, usually on a hackathon clock. Before I wrote code I taught languages and designed courses, so I write repos that a newcomer can actually follow.
 
-I co-organize **Ethereum Cancún Riviera México** — workshops, talks and hackathons for builders in the region.
+I run **FlashTalk Cotorreo** 🍻 — 2-minute flash talks on any blockchain topic, with beers, food, cotorreo y desmadre.
 
 ---
 
