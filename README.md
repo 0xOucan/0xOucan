@@ -29,7 +29,6 @@ embedded hardware and AI-assisted development.
 
 $ cat focus.txt
 → open-source hardware wallets on ESP32-S3
-→ FHE-encrypted, passkey-based smart wallets (ERC-4337)
 → air-gapped QR signing (EIP-4527 / BC-UR)
 → AI agents that execute on-chain
 → developer tooling for EVVM and EIP research
@@ -58,13 +57,6 @@ Open-source hardware wallet firmware for the **ESP32-S3** and Firefly Pixie. The
 ```
 
 `BIP-39/32/44` · `secp256k1 RFC6979` · `AES-256-GCM vault` · `X25519 + ChaCha20-Poly1305 sessions` · `dice + HW RNG entropy` · `EIP-1559` · `EIP-6963` · `reproducible builds` · `Apache-2.0`
-
-### 🦇 [Z0tz](https://github.com/0xOucan/z0tzLandingPage) — FHE-encrypted private wallet
-> **Fhenix Buildathon — Best Consumer App** · CTO / AI & ZK engineer
-
-A privacy wallet that keeps your USDC balance **encrypted on-chain** with Fhenix CoFHE. One WebAuthn passkey derives every address you need: stealth inboxes, ERC-4337 smart accounts and EOAs. **No seed phrase. No custodian. No leaked balance.**
-
-`Fhenix CoFHE` · `P-256 passkeys` · `ERC-4337 + paymaster` · `stealth addresses` · `Circle CCTP V2` · `Aave V3 confidential vaults` · [relayer](https://github.com/0xOucan/Z0tzRelayer) · [dashboard](https://github.com/0xOucan/z0tzdashboard) · [FHEIP drafts](https://github.com/0xOucan/z0tzFHEIP)
 
 ---
 
